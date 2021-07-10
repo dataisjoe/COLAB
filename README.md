@@ -1,1 +1,1 @@
-# COLAB
+# Python assignments
